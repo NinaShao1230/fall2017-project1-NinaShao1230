@@ -13,6 +13,10 @@ Term: Fall 2017
 
 + Project summary: Presidential inauguration indicate the beginning of a new four-year term of the president. As one of the traditions, U.S. presidents always address their plans for next four years. This project will offer a broad introduction about word, sentences for presidential inauguration throughout the years, and analyze the differences between Democrat and Republican presidents. 
 
+For detail outpur report, please check Output.Rmd under output folder. 
+
+Notes: Under the output folder, there are also some toy codes for topic modeling and n-gram in python. (code: n-gram analysis.ipynb,Hierarchical Dirichlet Process.ipynb and LDA Analysis .ipynb)
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
