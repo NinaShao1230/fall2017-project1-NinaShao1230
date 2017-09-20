@@ -8,10 +8,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2017
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Differences between Republican and Demoncrat Presidents  
++ This project is conducted by Sihui (Nina) Shao
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Presidential inauguration indicate the beginning of a new four-year term of the president. As one of the traditions, U.S. presidents always address their plans for next four years. This project will offer a broad introduction about word, sentences for presidential inauguration throughout the years, and analyze the differences between Democrat and Republican presidents. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
